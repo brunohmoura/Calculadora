@@ -1,4 +1,4 @@
 def saldacao(nome):
-  return f'Boa tarde, {nome} '
+  return f'Tenha um otimo final de semana, {nome} '
 
 print(saldacao('Bruno'))
